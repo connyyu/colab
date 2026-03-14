@@ -1,0 +1,9 @@
+_pycache_/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.egg-info/
+dist/
+.DS_Store
+micromamba/
+envs/
